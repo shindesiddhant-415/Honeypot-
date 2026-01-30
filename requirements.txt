@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+requests
+nest_asyncio
